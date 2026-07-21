@@ -1,0 +1,17 @@
+.test321 {
+    color: white;
+    padding: 32px 32px 100px 100px;
+
+    box-sizing: border-box;
+    border: 1cm black double;
+    border-radius: 50px;
+    margin: 0 auto;
+
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
